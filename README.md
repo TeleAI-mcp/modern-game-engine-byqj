@@ -1,2 +1,3 @@
-# modern-game-engine-byqj
-Modern Game Engine repository with automated issue comment bot
+# Modern Game Engine Byqj
+
+Automated issue comment bot repository.
